@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TopMovieSearch</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="search">Search</string>
+    <string name="search_movie_you_want_to_watch">Search movie you want to watch</string>
+</resources>
